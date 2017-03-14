@@ -1,4 +1,4 @@
-
+package main
 //
 //// queue 与 exchange 绑定
 //func (rs *RabbitMQ) ExchangeQueueBind(queue_name, routing_key, exchange_name string) error {
